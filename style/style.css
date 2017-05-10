@@ -1,0 +1,5 @@
+
+/* React-Router-Dom <Link/> gets transpiled to anchor tag, hence the a selector below */
+form a {
+    margin-left: .4rem;
+}
